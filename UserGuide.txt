@@ -1,0 +1,36 @@
+User Guide
+Overview
+
+This project is a sample Android application that demonstrates the use of the MVMM (Model-View-ViewModel) architecture. The app allows users to view a list of data and perform CRUD (Create, Read, Update, Delete) operations on them.
+Getting Started
+
+    Download and install the latest version of Android Studio from the official website.
+    Clone the repository: git clone https://github.com/farukkara/mvmm-architecture.git
+    Open the project in Android Studio
+    Sync the gradle files and build the project
+    Connect an Android device or launch an emulator
+    Run the project on the device or emulator
+
+Using the App
+
+    The app will open on the data list screen. The list will be initially empty, but you can add new data by clicking on the "Add" button.
+    To add a new data, fill in the form and click on the "Save" button.
+    To view the details of a data, click on it in the list.
+    To edit a data, click on the "Edit" button on the details screen.
+    To delete a data, click on the "Delete" button on the details screen.
+
+Troubleshooting
+
+    If the app crashes on launch, ensure that you have the latest version of Android Studio and that your device or emulator is running the latest version of Android.
+    If the app is not able to connect to the API, ensure that you have a stable internet connection.
+
+Contact
+
+    If you encounter any issues or have any feedback, please feel free to contact us at farukkara100@protonmail.ch
+
+Disclaimer
+
+This is a sample app, not a production ready app.
+Licensing
+
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
